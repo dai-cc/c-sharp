@@ -1,0 +1,6 @@
+D:\VS2013\代码\demo\demo\bin\Debug\demo.exe.config
+D:\VS2013\代码\demo\demo\bin\Debug\demo.exe
+D:\VS2013\代码\demo\demo\bin\Debug\demo.pdb
+D:\VS2013\代码\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+D:\VS2013\代码\demo\demo\obj\Debug\demo.exe
+D:\VS2013\代码\demo\demo\obj\Debug\demo.pdb

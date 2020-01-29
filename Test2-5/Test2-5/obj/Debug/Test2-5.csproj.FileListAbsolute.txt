@@ -1,0 +1,12 @@
+D:\VS2013\代码\Test2-5\Test2-5\bin\Debug\Test2-5.exe.config
+D:\VS2013\代码\Test2-5\Test2-5\bin\Debug\Test2-5.exe
+D:\VS2013\代码\Test2-5\Test2-5\bin\Debug\Test2-5.pdb
+D:\VS2013\代码\Test2-5\Test2-5\obj\Debug\Test2-5.csprojResolveAssemblyReference.cache
+D:\VS2013\代码\Test2-5\Test2-5\obj\Debug\Test2-5.exe
+D:\VS2013\代码\Test2-5\Test2-5\obj\Debug\Test2-5.pdb
+D:\VS2013\myCode\Test2-5\Test2-5\bin\Debug\Test2-5.exe.config
+D:\VS2013\myCode\Test2-5\Test2-5\obj\Debug\Test2-5.exe
+D:\VS2013\myCode\Test2-5\Test2-5\obj\Debug\Test2-5.pdb
+D:\VS2013\myCode\Test2-5\Test2-5\bin\Debug\Test2-5.exe
+D:\VS2013\myCode\Test2-5\Test2-5\bin\Debug\Test2-5.pdb
+D:\VS2013\myCode\Test2-5\Test2-5\obj\Debug\Test2-5.csprojResolveAssemblyReference.cache

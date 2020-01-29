@@ -1,0 +1,9 @@
+D:\VS2013\代码\demo2\demo2\bin\Debug\demo2.exe.config
+D:\VS2013\代码\demo2\demo2\bin\Debug\demo2.exe
+D:\VS2013\代码\demo2\demo2\bin\Debug\demo2.pdb
+D:\VS2013\代码\demo2\demo2\obj\Debug\demo2.csprojResolveAssemblyReference.cache
+D:\VS2013\代码\demo2\demo2\obj\Debug\demo2.Form1.resources
+D:\VS2013\代码\demo2\demo2\obj\Debug\demo2.Properties.Resources.resources
+D:\VS2013\代码\demo2\demo2\obj\Debug\demo2.csproj.GenerateResource.Cache
+D:\VS2013\代码\demo2\demo2\obj\Debug\demo2.exe
+D:\VS2013\代码\demo2\demo2\obj\Debug\demo2.pdb

@@ -1,0 +1,6 @@
+D:\VS2013\代码\Test2-3\Test2-3\bin\Debug\Test2-3.exe.config
+D:\VS2013\代码\Test2-3\Test2-3\bin\Debug\Test2-3.exe
+D:\VS2013\代码\Test2-3\Test2-3\bin\Debug\Test2-3.pdb
+D:\VS2013\代码\Test2-3\Test2-3\obj\Debug\Test2-3.csprojResolveAssemblyReference.cache
+D:\VS2013\代码\Test2-3\Test2-3\obj\Debug\Test2-3.exe
+D:\VS2013\代码\Test2-3\Test2-3\obj\Debug\Test2-3.pdb
